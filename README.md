@@ -6,7 +6,7 @@
 [![LambdaGeneration](https://img.shields.io/badge/LambdaGeneration-FF4500?style=for-the-badge&logo=LambdaGeneration&logoColor=white)](https://community.lambdageneration.com/user/hcjk)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/hcjk_/)
 
-**Abourt me:**
+**About me:**
 
 - Learning to build games with source engine
 - Living a cool life
